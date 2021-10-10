@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aneesh Alidina! @alidina
-- 👀 I’m interested in WordPress Web Development & Design, Front-End Web Development
-- 🌱 I’m currently learning react
+- 👀 Web Development & Design, Front-End Web Development
+- 🌱 I’m currently learning React
 - 📫 How to reach me <a href="https://uk.linkedin.com/in/aneeshalidina">linkedin</a>
 
 <!---
