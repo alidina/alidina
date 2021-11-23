@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aneesh Alidina! @alidina
 - 👀 Web Development & Design, Front-End Web Development
-- 🌱 I’m currently learning React
 - 📫 How to reach me <a href="https://uk.linkedin.com/in/aneeshalidina">linkedin</a>
 
 <!---
